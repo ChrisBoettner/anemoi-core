@@ -8,6 +8,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 Please add your functional changes to the appropriate section in the PR.
 Keep it human-readable, your future self will thank you!
 
+## [0.9.5](https://github.com/ecmwf/anemoi-core/compare/graphs-0.9.4...graphs-0.9.5) (2026-06-11)
+
+
+### Bug Fixes
+
+* Remove version limit ([#1178](https://github.com/ecmwf/anemoi-core/issues/1178)) ([821b1f0](https://github.com/ecmwf/anemoi-core/commit/821b1f0ee73d1fb4310d3f8a679001697e2331f0))
+
 ## [0.9.4](https://github.com/ecmwf/anemoi-core/compare/graphs-0.9.3...graphs-0.9.4) (2026-05-14)
 
 
